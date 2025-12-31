@@ -48,7 +48,7 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![TTV Release](https://img.shields.io/badge/Release-Version%201.6-brightgreen)
   
-  ![TTV Developer](https://img.shields.io/badge/Developer-Proto%20Version%201.6-blueviolet)
+  ![TTV Developer](https://img.shields.io/badge/Developer-Ref%20DevAccessPanel%20Developer-blueviolet)
 
 * Visible Columns In BuildBuy & Live Modes
 
