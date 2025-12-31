@@ -24,51 +24,51 @@ Version Colours are based upon the Notification UI Colour (Green: Release, Purpl
 
   ![DevAccessPanel Release](https://img.shields.io/badge/Release-null-brightgreen)
   
-  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2030-blueviolet)
+  ![DevAccessPanel Developer](https://img.shields.io/badge/Developer-Proto%20Build%2031-blueviolet)
   
   ![DevAccessPanel Beta](https://img.shields.io/badge/Beta-null-blue)
   
 * Teleport Memory System (TMS)
 
-  ![TMS Release](https://img.shields.io/badge/Release-Version%202.19%20Build%2014.5-brightgreen)
+  ![TMS Release](https://img.shields.io/badge/Release-Version%202.21.2%20Build%2021-brightgreen)
   
-  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.19%20Proto%20Build%2015.2-blueviolet)
+  ![TMS Developer](https://img.shields.io/badge/Developer-Version%202.21.2%20Proto%20Build%2021-blueviolet)
   
   ![TMS Beta](https://img.shields.io/badge/Beta-null-blue)
 
 * Sage of Mastery Magic + Mastery Spells + Ghost Butler + Alchemy (MasterSpells)
 
-  ![MasterSpells Release](https://img.shields.io/badge/Release-Version%202.14%20No--DevWork--Release%20Build%209-brightgreen)
+  ![MasterSpells Release](https://img.shields.io/badge/Release-Version%202.21%20No--DevWork--Release%20Build%2016-brightgreen)
   
-  ![MasterSpells Developer](https://img.shields.io/badge/Developer-Version%202.15%20No--DevWork--Release%20Build%2010-blueviolet)
+  ![MasterSpells Developer](https://img.shields.io/badge/Developer-Version%202.21%20No--DevWork--Release%20Build%2016-blueviolet)
   
   ![MasterSpells Beta](https://img.shields.io/badge/Beta-null-blue)
 
 * Travel To Venue
 
-  ![TTV Release](https://img.shields.io/badge/Release-Version%201.40-brightgreen)
+  ![TTV Release](https://img.shields.io/badge/Release-Version%201.6-brightgreen)
   
-  ![TTV Developer](https://img.shields.io/badge/Developer-Proto%20Version%201.40-blueviolet)
+  ![TTV Developer](https://img.shields.io/badge/Developer-Proto%20Version%201.6-blueviolet)
 
 * Visible Columns In BuildBuy & Live Modes
 
-  ![VCB&LM Release](https://img.shields.io/badge/Release-Version%201.40-brightgreen)
+  ![VCB&LM Release](https://img.shields.io/badge/Release-Version%201.8-brightgreen)
 
 * Occult Hybrid Unlocker
 
-  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Version%201.10%5D-brightgreen)
+  ![HybridUnlocker Release](https://img.shields.io/badge/Release-Version%201.13.5-brightgreen)
 
 * Choose Your Own
 
-  ![CYO Release](https://img.shields.io/badge/Release-Version%201.45-brightgreen)
+  ![CYO Release](https://img.shields.io/badge/Release-Version%201.46-brightgreen)
   
 * Vampiric Teleport Spells
 
-  ![VTS Release](https://img.shields.io/badge/Release-Version%203.26-brightgreen)
+  ![VTS Release](https://img.shields.io/badge/Release-Version%203.27-brightgreen)
 
-* Custom Vampire Perks
+* Custom Occult Perks
 
-  ![CVP Release](https://img.shields.io/badge/Release-Version%201.50-brightgreen)
+  ![COP Release](https://img.shields.io/badge/Release-Version%201.7-brightgreen)
 
 #### All Other Mods Please Check Respective Mod Pages
 
